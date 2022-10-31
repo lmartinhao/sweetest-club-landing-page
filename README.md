@@ -1,21 +1,17 @@
-# Responsive LANDING PAGE
+# SweeTest Club - Landing Page Project
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/lmartinhao/sweetest-club-landing-page/blob/main/LICENSE) 
 
-# Web page
+# Responsive Landing Page
 
 https://landing-page-sweetestclub.netlify.app/
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
-
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+A web page, construída com interface responsiva que se ajusta a diferentes tipos de tela, foi pensada e desenvolvida para atender uma empresa fictícia de assinatura de doces, criada apenas para fins didáticos.
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web](https://www.imagemhost.com.br/images/2022/10/31/Captura-de-Tela-2022-10-31-as-18.57.03.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+## Layout mobile
+![Mobile](https://www.imagemhost.com.br/image/rL9IRp)
 
 # Tecnologias utilizadas
 ## Front end
