@@ -10,9 +10,6 @@ A web page, construída com interface responsiva que se ajusta a diferentes tipo
 ## Layout web
 ![Web](https://www.imagemhost.com.br/images/2022/10/31/Captura-de-Tela-2022-10-31-as-18.57.03.png)
 
-## Layout mobile
-![Mobile](https://www.imagemhost.com.br/image/rL9IRp)
-
 # Tecnologias utilizadas
 ## Front end
 - HTML / CSS / JS /
